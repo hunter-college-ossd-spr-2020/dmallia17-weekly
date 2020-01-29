@@ -14,5 +14,5 @@ Spring 2020, with anticipated graduation in June 2020.
 When I'm not at a computer, I am usually taking a relaxing walk with my wife, 
 cooking, playing guitar, or bicycling.
 
-Before changing careers, I studied and achieved Bachelor of Arts and Master
-of Arts degrees from Fordham University.
+Before changing careers, I studied history and achieved Bachelor of Arts and
+Master of Arts degrees in history from Fordham University.
