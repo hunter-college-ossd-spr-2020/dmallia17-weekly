@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Software Engineer Intern at Geopipe and member of the Computer
+Vision and Graphics Lab at Hunter College. Currently a student
+in CSci 395.86 (Open Source Software Development) at Hunter College,
+Spring 2020, with anticipated graduation in June 2020.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+When I'm not at a computer, I am usually taking a relaxing walk with my wife, 
+cooking, playing guitar, or bicycling.
 
