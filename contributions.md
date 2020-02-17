@@ -23,6 +23,7 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
-|     |     |     |      |
+| 3  | [OSM Changeset](https://www.openstreetmap.org/changeset/81085982)    | OpenStreetMap feature    |   Add Purple Crayon preschool to map.   |
+|  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086120)  |  OpenStreetMap feature  |  Add King Souvlaki restaurant to map.    |
+|  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086235)  |   OpenStreetMap feature  | Add Chobana Grill Cafe to map.     |
+|  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086513)  |  OpenStreetMap feature   | Add The Dandy Lion to the map.     |
