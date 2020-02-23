@@ -27,3 +27,5 @@ following the same syntax.
 |  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086120)  |  OpenStreetMap feature  |  Add King Souvlaki restaurant to map.    |
 |  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086235)  |   OpenStreetMap feature  | Add Chobana Grill Cafe to map.     |
 |  3 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81086513)  |  OpenStreetMap feature   | Add The Dandy Lion to the map.     |
+|  4 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81360645)  |  OpenStreetMap feature  
+| Downgraded point to remove incorrect location for Kettle Black bar, which is already correctly located on 87th Street and 3rd Avenue.
