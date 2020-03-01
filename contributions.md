@@ -30,5 +30,8 @@ following the same syntax.
 |  4 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81360645)  |  OpenStreetMap feature  | Downgraded point to remove incorrect location for Kettle Black bar, which is already correctly located on 87th Street and 3rd Avenue.     |
 |  4 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/4)  |  Blog Editing  | Submitted a number of changes to correct a spelling error, a text fragment and grammatical issues.     |
 |  4 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81375236)  |  OpenStreetMap feature  | Update information on Paneantico (change category and add address, telephone, fax and website).    |
+|  5 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/2)  |  Blog Editing  | Corrected a few 
+spelling errors and it's vs its sort of issues.     |
+|  5 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/6)  |  Blog Editing  | Submitted a number of changes to correct tense issues and suggest alternative wording.     |
 
 
