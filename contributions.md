@@ -33,5 +33,6 @@ following the same syntax.
 |  5 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Nannaquin-weekly/pull/2)  |  Blog Editing  | Corrected a few spelling errors and it's vs its sort of issues.     |
 |  5 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/liulanz-weekly/pull/6)  |  Blog Editing  | Submitted a number of changes to correct tense issues and suggest alternative wording.     |
 |  5 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81634942)  |  OpenStreetMap feature  | Add Tacos El Nopal Mexican restaurant to the map.    |
+|  6 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/5)  |  Blog Editing  | Submitted a number of changes to correct some minor spelling and grammatical issues.     |
 
 
