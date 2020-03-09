@@ -35,4 +35,5 @@ following the same syntax.
 |  5 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81634942)  |  OpenStreetMap feature  | Add Tacos El Nopal Mexican restaurant to the map.    |
 |  6 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/5)  |  Blog Editing  | Submitted a number of changes to correct some minor spelling and grammatical issues.     |
 |  6 |  [Blog Issue](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/issues/6)  |  Blog Editing  | Submitted an issue related to a broken link included in a blog entry - this is an issue only a blog author is able to properly address.     |
+|  6 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81936488)  |  OpenStreetMap feature  | Add Luliano's restaurant to the map    |
 
