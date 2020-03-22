@@ -36,4 +36,6 @@ following the same syntax.
 |  6 |  [Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/5)  |  Blog Editing  | Submitted a number of changes to correct some minor spelling and grammatical issues.     |
 |  6 |  [Blog Issue](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/issues/6)  |  Blog Editing  | Submitted an issue related to a broken link included in a blog entry - this is an issue only a blog author is able to properly address.     |
 |  6 |  [OSM Changeset](https://www.openstreetmap.org/changeset/81936488)  |  OpenStreetMap feature  | Add Luliano's restaurant to the map    |
+|  8 |  [Wikipedia Diff](https://en.wikipedia.org/w/index.php?title=USS_Mahan_(DDG-72)&diff=prev&oldid=946879140)  |  Wikipedia Edit  | ‎Namesake: Edited the section for better grammar and introduction to Admiral Mahan. Corrected book title to "The Influence of Sea Power upon History" and added Wikipedia page link.    |
+|  8 |  [Wikipedia Diff](https://en.wikipedia.org/w/index.php?title=M2_Bradley&diff=prev&oldid=946881021)  |  Wikipedia Edit  | Production history: Removed duplicative phrasing; added needed commas and a period.    |
 
